@@ -1,3 +1,5 @@
+⭐본 프로젝트는 [uuhnaut69/saga-pattern-microservices](https://github.com/uuhnaut69/saga-pattern-microservices)를 기반으로 학습용으로 수정되었습니다⭐  
+
 # Saga Pattern Microservices
 
 ![CircleCI](https://img.shields.io/circleci/build/github/uuhnaut69/saga-pattern-microservices/master?color=green&logo=circleci&style=for-the-badge)
